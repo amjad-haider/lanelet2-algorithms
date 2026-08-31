@@ -1,0 +1,11 @@
+CLAUDE.md
+KICKOFF.md
+.claude/
+
+build/
+out/
+data/*.osm
+
+*.o
+*.obj
+compile_commands.json
